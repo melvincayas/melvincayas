@@ -9,9 +9,9 @@ I'm an Electrical Engineer and a budding Web Developer. If you're curious about 
 - I review fitness products for fun on my [YouTube channel](https://www.youtube.com/channel/UCtqPR9aJYCGbyQHzoPfVEeg) 🎥
 - Snowboarding is my favorite winter activity 🏂
 
+## Contact Me
 Let's impact the world together!
 
-## Contact Me
 Email: [cayasmj@gmail.com](mailto:cayasmj@gmail.com?subject=[GitHub])  
 Website: [melvincayas.com](https://melvincayas.com/)  
 Blog: [melvinlearnscode.com](https://melvinlearnscode.com/)
