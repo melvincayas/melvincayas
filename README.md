@@ -1,4 +1,4 @@
-## Hey, I'm Melvin! :v:
+# Hey, I'm Melvin! :v:
 
 I'm an Electrical Engineer and a budding Web Developer. If you're curious about how I got into coding, you can read [here](https://melvinlearnscode.com/learning-to-code-on-your-own-4-tips-for-coding-by-yourself).
 
