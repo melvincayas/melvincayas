@@ -15,3 +15,6 @@ Let's impact the world together!
 Email: [cayasmj@gmail.com](mailto:cayasmj@gmail.com?subject=[GitHub])  
 Website: [melvincayas.com](https://melvincayas.com/)  
 Blog: [melvinlearnscode.com](https://melvinlearnscode.com/)
+GitHub: [@melvincayas](https:/github.com/melvincayas/)
+Twitter: [@melvincayas](https://twitter.com/melvincayas/)
+LinkedIn: [@melvincayas](https://linkedin.com/in/melvincayas/)
